@@ -4,6 +4,10 @@ This repository is my journey — from beginner steps to building real-world pro
 
 ---
 
+<img src="V:\Coding Documents\Profile LinkedIn Banner.png"/>
+
+---
+
 ## Skills
 - **Frontend Development** →
   <p>
