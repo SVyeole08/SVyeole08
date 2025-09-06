@@ -1,4 +1,4 @@
-Hi there! 👋  
+# Hi there! 👋
 I’m **Sarvadnya Yeole**, a passionate learner exploring the world of **Full Stack Web Development**.  
 This repository is my journey — from beginner steps to building real-world projects.  
 
