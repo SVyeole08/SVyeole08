@@ -4,7 +4,7 @@ This repository is my journey — from beginner steps to building real-world pro
 
 ---
 
-<img src='Profile banner Github.png'/>
+[!(assets/banner.mp4)
 
 ---
 
