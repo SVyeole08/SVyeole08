@@ -5,8 +5,8 @@ I'm a Computer Science student passionate about:
 - 📊 Data Structures & Algorithms
 - 🌐 Web Development
 - 💡 Building Real-World Projects
-.  
-This repository is my journey — from beginner steps to building real-world projects.  
+
+Passionate about leveraging AI, Machine Learning, and Software Development to build impactful real-world solutions.
 
 ---
 
@@ -35,6 +35,26 @@ This repository is my journey — from beginner steps to building real-world pro
 
 ---
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SVyeole08&show_icons=true&theme=github_dark&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SVyeole08&layout=compact&theme=github_dark)
+
+---
+
+## 🏆 Problem Solving
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/sv_yeole_0909?theme=dark&font=Baloo&ext=contest)
+
+<p>
+  <a href="https://leetcode.com/u/sv_yeole_0909/">
+    <img src="https://img.shields.io/badge/🏆%20LeetCode%20Profile-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0D1117"/>
+  </a>
+</p>
+
+---
+
 ## Tools and Workflow → 
 <p><img src="https://camo.githubusercontent.com/18c1d28951104e3dbf342dcaae38b07f65c95f0401e5de36aa560f6073db149e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742d2532334630353033332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465">  
 <img src="https://camo.githubusercontent.com/800bad6e848cfe326ea2f1606bc3e7ab04aff9c1008e73c48b39a34a156c7f92/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d2532333132313031312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465"><br/>
@@ -45,13 +65,9 @@ This repository is my journey — from beginner steps to building real-world pro
 
 ---
 
-## 🌟 Goal for 2026
+## Long-Term Vision
 
-- Master DSA
-- Build AI/ML Projects
-- Learn Full-Stack Development
-- Contribute to Open Source
-- Create Real-World Applications
+To become a skilled AI/ML Engineer with strong software development and problem-solving expertise.
 
 ---
 
