@@ -4,7 +4,7 @@ I'm a Computer Science student passionate about:
 - 🤖 Artificial Intelligence & Machine Learning
 - 📊 Data Structures & Algorithms
 - 🌐 Web Development
-- 💡 Building Real-World Projects
+- 💡 Building Real World Projects
 
 Passionate about leveraging AI, Machine Learning, and Software Development to build impactful real-world solutions.
 
@@ -18,10 +18,9 @@ Passionate about leveraging AI, Machine Learning, and Software Development to bu
 
 
 ### Currently Learning
-- Python 
+- Python libraries
 - Machine Learning
-- Data Structures & Algorithms
-- Front-End 
+- Data Structures & Algorithms 
 
 ---
 
@@ -29,7 +28,7 @@ Passionate about leveraging AI, Machine Learning, and Software Development to bu
 
 🎯 Solving DSA problems daily
 
-🎯 Learning Python for AI/ML
+🎯 Learning Python libraries for AI/ML
 
 🎯 Exploring Machine Learning fundamentals
 
