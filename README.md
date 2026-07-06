@@ -3,9 +3,8 @@
 **Interested in:**
 - 🤖 Artificial Intelligence & Machine Learning
 - 📊 Data Science / Analytics
-- 🌐 Web Development
 
-Passionate about leveraging AI, Machine Learning, and Software Development to build impactful real-world solutions.
+🔭 Currently on the journey to becoming a Data Scientist.
 
 ---
 
