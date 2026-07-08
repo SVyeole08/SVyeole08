@@ -44,7 +44,7 @@
 
 ## Long-Term Vision
 
-I want to build ML systems end-to-end — from messy data to something that actually works in production, not just a Jupyter notebook demo.
+I want to build ML systems end-to-end from messy data to something that actually works in production, not just a Jupyter notebook demo.
 
 ---
 
