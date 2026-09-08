@@ -1,73 +1,65 @@
-# Hi there! 👋 I’m **Sarvadnya**
+# <div align='center'>Hi there! 👋 I’m Sarvadnya</div>
 
-I'm a Computer Science student passionate about:
+**Interested in:**
+
 - 🤖 Artificial Intelligence & Machine Learning
-- 📊 Data Structures & Algorithms
-- 🌐 Web Development
-- 💡 Building Real-World Projects
+- 📊 Data Science / Analytics
 
-Passionate about leveraging AI, Machine Learning, and Software Development to build impactful real-world solutions.
+🔭 Currently on the journey to becoming a Data Scientist.
 
 ---
+
+## Currently Learning
+
+- Machine Learning Algorithms
+- SQL
 
 ## 🛠️ Tech Stack
 
 ### Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-
-### Currently Learning
-- Python 
-- Machine Learning
-- Data Structures & Algorithms
-- Front-End 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ---
 
-## 📚 Current Learning Journey
-
-🎯 Solving DSA problems daily
-
-🎯 Learning Python for AI/ML
-
-🎯 Exploring Machine Learning fundamentals
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SVyeole08&show_icons=true&theme=github_dark&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SVyeole08&layout=compact&theme=github_dark)
-
----
-
-## 🏆 Problem Solving
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/sv_yeole_0909?theme=dark&font=Baloo&ext=contest)
+## Tools and Workflow →
 
 <p>
-  <a href="https://leetcode.com/u/sv_yeole_0909/">
-    <img src="https://img.shields.io/badge/🏆%20LeetCode%20Profile-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0D1117"/>
-  </a>
+    <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white">
+    <img src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+    <img src="https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+    <img src="https://img.shields.io/badge/Matplotlib-11557C.svg?style=for-the-badge&logo=matplotlib&logoColor=white">
+    <img src="https://img.shields.io/badge/Seaborn-4c72b0.svg?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+    <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white">
 </p>
-
----
-
-## Tools and Workflow → 
-<p><img src="https://camo.githubusercontent.com/18c1d28951104e3dbf342dcaae38b07f65c95f0401e5de36aa560f6073db149e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742d2532334630353033332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465">  
-<img src="https://camo.githubusercontent.com/800bad6e848cfe326ea2f1606bc3e7ab04aff9c1008e73c48b39a34a156c7f92/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d2532333132313031312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465"><br/>
-<img src="https://camo.githubusercontent.com/7331a48618062bb9916692848526adae3ed827d16d28f0e29ebf633a397a366e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e504d2d2532334342333833372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e706d266c6f676f436f6c6f723d7768697465">
-<img src="https://camo.githubusercontent.com/8056377ae1874efe9fb628d089a0e796e2020ac12e9a0a2d5353bf8f99ab6d02/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f253230436f64652d3030373864372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465"><br/>
-<img src="https://camo.githubusercontent.com/2c90f0daa6d16880f300c463d62949a8d2ea3461f9708e93e46a54da5a649c9d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f76657263656c2d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76657263656c266c6f676f436f6c6f723d7768697465">
-<img src="https://camo.githubusercontent.com/e13a70a6e350e69ac9bbc62fab596076e46fc8dc5d206f9653e6005368e570a5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656e6465722d3034363643383f7374796c653d666f722d7468652d6261646765266c6f676f3d72656e646572266c6f676f436f6c6f723d7768697465"></p>
+<p>
+    <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
+    <img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white">
+</p>
+<p>
+    <img src="https://camo.githubusercontent.com/18c1d28951104e3dbf342dcaae38b07f65c95f0401e5de36aa560f6073db149e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742d2532334630353033332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465">  
+    <img src="https://camo.githubusercontent.com/800bad6e848cfe326ea2f1606bc3e7ab04aff9c1008e73c48b39a34a156c7f92/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d2532333132313031312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465">
+</p>
+<p>
+    <img src="https://img.shields.io/badge/pycharm-%23000000.svg?style=for-the-badge&logo=pycharm&logoColor=white">
+    <img src="https://camo.githubusercontent.com/8056377ae1874efe9fb628d089a0e796e2020ac12e9a0a2d5353bf8f99ab6d02/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f253230436f64652d3030373864372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465"><br/>
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+    <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
+    <img src="https://img.shields.io/badge/Power_BI-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black">
+</p>
+<p>
+    <img src="https://img.shields.io/badge/render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white">
+    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+</p>
 
 ---
 
 ## Long-Term Vision
 
-To become a skilled AI/ML Engineer with strong software development and problem-solving expertise.
+I want to build ML systems end-to-end from messy data to something that actually works in production, not just a Jupyter
+notebook demo.
 
 ---
 
